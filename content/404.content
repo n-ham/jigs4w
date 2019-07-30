@@ -1,0 +1,7 @@
+<div id='smoke'>
+	<img id="zoomzoom" src="./imgs/jigs4w.jpeg" width="100%">
+</div>
+
+<audio id="my_audio"></audio>
+
+<canvas id="canvas"></canvas>
