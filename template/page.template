@@ -16,7 +16,7 @@
 				else 
 				{
 					var rnum = (new Date().getSeconds())%17;
-					var tunes = ["mp3/Buzzsaw.mp3", "mp3/Cancer2.mp3", "mp3/Care.mp3", "mp3/Drunk.mp3", "mp3/Creaking_Door_Spooky.mp3", "mp3/Death.mp3", "mp3/Adam-tape.mp3", "mp3/Alive.mp3", "mp3/Amanda-tape.mp3", "mp3/Demon_Girls_Mockingbird.mp3", "mp3/Guy_Hit.mp3", "mp3/I_Will_Kill_You.mp3", "mp3/Scary_Demon_Haunting.mp3", "mp3/Angry.mp3", "mp3/Blood.mp3", "mp3/Box.mp3", "mp3/Cancer.mp3"];
+					var tunes = ["https://jigs4w.com/mp3/Buzzsaw.mp3", "https://jigs4w.com/mp3/Cancer2.mp3", "https://jigs4w.com/mp3/Care.mp3", "https://jigs4w.com/mp3/Drunk.mp3", "https://jigs4w.com/mp3/Creaking_Door_Spooky.mp3", "https://jigs4w.com/mp3/Death.mp3", "https://jigs4w.com/mp3/Adam-tape.mp3", "https://jigs4w.com/mp3/Alive.mp3", "https://jigs4w.com/mp3/Amanda-tape.mp3", "https://jigs4w.com/mp3/Demon_Girls_Mockingbird.mp3", "https://jigs4w.com/mp3/Guy_Hit.mp3", "https://jigs4w.com/mp3/I_Will_Kill_You.mp3", "https://jigs4w.com/mp3/Scary_Demon_Haunting.mp3", "https://jigs4w.com/mp3/Angry.mp3", "https://jigs4w.com/mp3/Blood.mp3", "https://jigs4w.com/mp3/Box.mp3", "https://jigs4w.com/mp3/Cancer.mp3"];
 					myAudio.src = tunes[rnum];
 					myAudio.play();
 				}

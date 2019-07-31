@@ -1,5 +1,5 @@
 <div id='smoke'>
-	<img id="zoomzoom" src="./imgs/jigs4w.jpeg" width="100%">
+	<img id="zoomzoom" src="https://jigs4w.com/imgs/jigs4w.jpeg" width="100%">
 </div>
 
 <audio id="my_audio"></audio>
