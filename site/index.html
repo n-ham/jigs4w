@@ -20,13 +20,15 @@
 	</head>
 
 	<body onmousemove="play_tune()">
-		<div id='smoke'>
-			<img id="zoomzoom" src="https://jigs4w.com/imgs/jigs4w.jpeg" width="100%">
+		<div class="content">
+			<div id='smoke'>
+				<img id="zoomzoom" src="https://jigs4w.com/imgs/jigs4w.jpeg" width="100%">
+			</div>
+		
+			<audio id="my_audio"></audio>
+		
+			<canvas id="canvas"></canvas>
 		</div>
-		
-		<audio id="my_audio"></audio>
-		
-		<canvas id="canvas"></canvas>
 
 		<script>
 			function play_tune()
