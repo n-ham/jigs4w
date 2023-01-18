@@ -2,9 +2,9 @@
 
 <!-- contact: email@jigs4w.com -->
 
-<link rel='stylesheet' type='text/css' href='https://jigs4w.com/css/pagestyle.css'>
-<link rel='icon' type='image/png' href='https://jigs4w.com/imgs/favicon.jpeg'>
-<script src='https://jigs4w.com/js/motion.js'></script>
+<link rel='stylesheet' type='text/css' href='@pathto(output/css/pagestyle.css)'>
+<link rel='icon' type='image/png' href='@pathto(output/imgs/favicon.jpeg)'>
+<script src='@pathto(output/js/motion.js)'></script>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-141045811-1"></script>
